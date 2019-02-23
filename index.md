@@ -5,18 +5,23 @@
 Welcome! This is the main page that contains all the notes and resources you'll use during these sessions to refer to. 
 
 
-## Introductory material
+## Session 1 :
 
-#### [Student Guide](./docs/student_guide.md)
+#### [Introduction Slides](https://docs.google.com/presentation/d/1kzQyTqcM9TaQrEvFCgjxaZ2PsrNvHE53HjLpSqJ26D0/edit?usp=sharing)
 
-A basic guide on the equipment provided. 
+This first session we will cover a basic introduction to programming and the raspberry pi, you'll work your way through programming exercises. We'll also show you some demonstrations of what you'll make over the workshops. 
 
-#### [Introduction to Python and the Sense HAT](./docs/sense_hat_intro.md)
+## Session 2 :
 
-Introduces you to the basics of Python and using the Sense HAT. You should
-read through this and do all the exercises before attempting any projects.
+#### [Sense Hat Project Slides](./docs/sense_hat_intro.md)
 
-#### [Function Reference](./docs/function_reference.md)
+Now that you have a basic knowlegde of programming and what the raspberry pi SenseHat is, you'll write programmes to create a clock, glitter and magic eight. 
+
+All of the notebooks to create these projects can be found on your Raspberry Pi. 
+
+## Session 3 :
+
+#### [Camera assembly Slides](./docs/function_reference.md)
 
 This contains descriptions of some functions that will be useful to you
 when you're working with your projects.
