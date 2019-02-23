@@ -1,4 +1,4 @@
-<h2 align = "center">hackingEducation & B6</h2>
+<h2 align = "center">hackingEducation Workshops/h2>
 
 <br><br>
 
@@ -13,11 +13,11 @@ This first session we will cover a basic introduction to programming and the ras
 
 ## Session 2 :
 
-#### [Sense Hat Project Slides](./docs/sense_hat_intro.md)
+#### [Sense Hat Project Slides](https://docs.google.com/presentation/d/1VYd2Ha07SDu10oSwsRey8_C4muYLWsSWd2Ou7cehz50/edit?usp=sharing)
 
 Now that you have a basic knowlegde of programming and what the raspberry pi SenseHat is, you'll write programmes to create a clock, glitter and magic eight. 
 
-All of the notebooks to create these projects can be found on your Raspberry Pi. 
+All of the notebooks that you'll follow to create these projects can be found already on your Raspberry Pi. 
 
 ## Session 3 :
 
