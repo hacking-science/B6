@@ -21,14 +21,10 @@ All of the notebooks that you'll follow to create these projects can be found al
 
 ## Session 3 :
 
-#### [Camera assembly Slides](./docs/function_reference.md)
+#### [Camera assembly Slides](https://docs.google.com/presentation/d/1zgKjPH1ebDKovIGiKce-QTBVKiipIoGuhm75EUjtyr8/edit?usp=sharing)
 
 This contains descriptions of some functions that will be useful to you
 when you're working with your projects.
-
-#### [Running Files on the Sense HAT](./docs/running_files_on_the_sense_hat.md)
-
-This contains instructions on how to transfer code from the desktop to the Sense HAT and run it.
 
 ## Post Sessions Material
 
