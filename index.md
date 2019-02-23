@@ -1,4 +1,4 @@
-<h2 align = "center">hackingEducation Workshops/h2>
+<h2 align = "center">hackingEducation Workshops</h2>
 
 <br><br>
 
